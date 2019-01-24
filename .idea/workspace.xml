@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b1ca794-4957-4685-b6ba-d3aef7f1079d" name="Default Changelist" comment="" />
+    <list default="true" id="8f10dfd1-272d-4f47-98a1-f5b6ad8268b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/viagami.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/impl/RomanNumeralGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/impl/RomanNumeralGeneratorImpl.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,14 +17,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-643283149">
+    <session id="1539838430">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -32,68 +37,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="324" />
+          <entry key="java" value="1381" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="324" />
+          <entry key="JAVA" value="1381" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/RomanNumeralGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/impl/RomanNumeralGeneratorImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="1451">
+              <caret line="113" column="46" selection-start-line="113" selection-start-column="37" selection-end-line="113" selection-end-column="46" />
               <folding>
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MMMCMXCIX</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RomanNumeralGeneratorService.java" />
-        <option value="$PROJECT_DIR$/src/RomanNumeralGeneratorS.java" />
-        <option value="$PROJECT_DIR$/src/RomanNumeralGenerator.java" />
-        <option value="$PROJECT_DIR$/src/impl/RomanNumeralGeneratorImpl.java" />
-        <option value="$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/RomanNumeralGenerator.java" />
         <option value="$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/impl/RomanNumeralGeneratorImpl.java" />
-        <option value="$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java" />
       </list>
     </option>
   </component>
@@ -103,58 +86,83 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="893" />
-    <option name="height" value="907" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Caveat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Caveat" type="462c0819:PsiDirectoryNode" />
+              <item name="caveat-romannumerals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caveat-romannumerals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Caveat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Caveat" type="462c0819:PsiDirectoryNode" />
+              <item name="caveat-romannumerals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caveat-romannumerals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Caveat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Caveat" type="462c0819:PsiDirectoryNode" />
+              <item name="caveat-romannumerals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caveat-romannumerals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="co" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caveat-romannumerals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caveat-romannumerals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="co" type="462c0819:PsiDirectoryNode" />
+              <item name="uk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caveat-romannumerals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caveat-romannumerals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="co" type="462c0819:PsiDirectoryNode" />
+              <item name="uk" type="462c0819:PsiDirectoryNode" />
               <item name="bbctechnicalinterview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548323660622" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,31 +176,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GFG">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.uk.bbctechnicalinterview.GFG" />
-      <module name="Caveat" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="co.uk.bbctechnicalinterview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals">
     <configuration name="RomanNumeralGeneratorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.uk.bbctechnicalinterview.impl.RomanNumeralGeneratorImpl" />
-      <module name="Caveat" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="caveat-romannumerals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="co.uk.bbctechnicalinterview.impl.*" />
@@ -203,42 +190,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="RomanNumeralGeneratorImpl.given_a_invalid_numericValue_WhenCalling_generate_should_ReturnAmessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="caveat-romannumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.bbctechnicalinterview.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.bbctechnicalinterview.impl" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.bbctechnicalinterview.impl.RomanNumeralGeneratorImpl" />
+      <option name="METHOD_NAME" value="given_a_invalid_numericValue_WhenCalling_generate_should_ReturnAmessage" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration name="RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="caveat-romannumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.bbctechnicalinterview.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.bbctechnicalinterview.impl" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.bbctechnicalinterview.impl.RomanNumeralGeneratorImpl" />
+      <option name="METHOD_NAME" value="given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
+    <configuration name="RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertTo_romanNumerals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="caveat-romannumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.bbctechnicalinterview.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.bbctechnicalinterview.impl" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.bbctechnicalinterview.impl.RomanNumeralGeneratorImpl" />
+      <option name="METHOD_NAME" value="given_a_numericValue_WhenCalling_generate_should_convertTo_romanNumerals" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+    <configuration name="RomanNumeralGeneratorImpl.given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="caveat-romannumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.bbctechnicalinterview.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.bbctechnicalinterview.impl" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.bbctechnicalinterview.impl.RomanNumeralGeneratorImpl" />
+      <option name="METHOD_NAME" value="given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.RomanNumeralGeneratorImpl" />
-      <item itemvalue="Application.GFG" />
+      <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertTo_romanNumerals" />
+      <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_invalid_numericValue_WhenCalling_generate_should_ReturnAmessage" />
+      <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString" />
+      <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GFG" />
+        <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals" />
+        <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString" />
+        <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_invalid_numericValue_WhenCalling_generate_should_ReturnAmessage" />
+        <item itemvalue="JUnit.RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertTo_romanNumerals" />
         <item itemvalue="Application.RomanNumeralGeneratorImpl" />
       </list>
     </recent_temporary>
@@ -248,43 +276,61 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b1ca794-4957-4685-b6ba-d3aef7f1079d" name="Default Changelist" comment="" />
-      <created>1548278412551</created>
+      <changelist id="8f10dfd1-272d-4f47-98a1-f5b6ad8268b3" name="Default Changelist" comment="" />
+      <created>1548325071698</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548278412551</updated>
-      <workItem from="1548278426013" duration="3630000" />
+      <updated>1548325071698</updated>
+      <workItem from="1548325077099" duration="7906000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="RomanNumeralGeneratorImpl_given_a_numericValue_WhenCalling_generate_should_convertTo_romanNumerals - 2019.01.24 at 12h 15m 12s.xml">
+      <configuration name="RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertTo_romanNumerals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorImpl_given_a_invalid_numericValue_WhenCalling_generate_should_ReturnAmessage - 2019.01.24 at 12h 17m 35s.xml">
+      <configuration name="RomanNumeralGeneratorImpl.given_a_invalid_numericValue_WhenCalling_generate_should_ReturnAmessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorImpl_given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString - 2019.01.24 at 12h 18m 33s.xml">
+      <configuration name="RomanNumeralGeneratorImpl.given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorImpl_given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString - 2019.01.24 at 12h 18m 43s.xml">
+      <configuration name="RomanNumeralGeneratorImpl.given_a_zero_numericValue_WhenCalling_generate_should_ReturnAnEmptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralGeneratorImpl_given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals - 2019.01.24 at 12h 19m 14s.xml">
+      <configuration name="RomanNumeralGeneratorImpl.given_a_numericValue_WhenCalling_generate_should_convertToRomanNumerals" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3630000" />
+    <option name="totallyTimeSpent" value="7906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
+      <window_info id="JRebel" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08181096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32938075" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3992095" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39940608" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Maven Projects" />
@@ -302,68 +348,38 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java</url>
-          <line>135</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="5" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/impl/RomanNumeralGeneratorImpl.java</url>
+          <line>14</line>
+          <properties class="co.uk.bbctechnicalinterview.impl.RomanNumeralGeneratorImpl" method="generate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/RomanNumeralGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="-672">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/impl/RomanNumeralGeneratorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="1451">
+          <caret line="113" column="46" selection-start-line="113" selection-start-column="37" selection-end-line="113" selection-end-column="46" />
           <folding>
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/co/uk/bbctechnicalinterview/CFG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="Copyright.UI">
-        <settings>
-          <last-edited>viagami</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -377,7 +393,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -400,17 +415,6 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
