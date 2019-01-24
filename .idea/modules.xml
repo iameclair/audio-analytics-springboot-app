@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/caveat-romannumerals.iml" filepath="$PROJECT_DIR$/caveat-romannumerals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TechnicalChallenge.iml" filepath="$PROJECT_DIR$/TechnicalChallenge.iml" />
     </modules>
   </component>
 </project>
